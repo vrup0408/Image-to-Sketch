@@ -3,7 +3,7 @@
 
 <i>Below are some screenshots of this application:-</i>
 
-<img src="" width=300 height=300></img> &nbsp; <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🡻</p> <img src="" width=300 height=300></img>
+<img src="assets/MS_DHONI.png" width=300 height=300></img> &nbsp; <p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🡻</p> <img src="assets/MS_DHONI_SKETCH.png" width=300 height=300></img>
 
 <hr>
 <b>Tools and Technologies used: </b> <i>Python, numpy, Visual Studio Code, imageio, scipy and cv2</i>
